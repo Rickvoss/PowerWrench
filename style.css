@@ -86,3 +86,13 @@ p {
   border-radius: 10px;
   margin: auto; 
 }
+.download_section{
+  width: 40%;
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #13d8b7;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 15px; 
+  margin-bottom: 55px;
+}
